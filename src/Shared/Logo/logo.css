@@ -1,0 +1,25 @@
+.circle {
+    width: 64px;
+    height: 64px;
+    margin: auto;
+    display: inline-block;
+    float:right;
+    margin-top: 7px;
+
+}
+.logoCard{
+    float: right;
+   border: none;
+    height: 70px;
+    width:250px;
+}
+.mySpan{
+    font-weight: bold!important;
+    font-size: 26px;
+    bottom: 20px!important;
+    margin-right: 10px; 
+    line-height: 1.5rem;
+    text-shadow:-2px -2px 2px #aaa;
+    color: black;
+}
+

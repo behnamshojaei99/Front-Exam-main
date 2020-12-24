@@ -1,0 +1,12 @@
+.content {
+    margin-left: 18px;
+    margin-right: 9px;
+}
+
+.header {
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    vertical-align: middle;
+    align-items: center;
+}

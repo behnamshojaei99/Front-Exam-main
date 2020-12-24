@@ -1,0 +1,58 @@
+
+.circle {
+    border-radius: 50% !important;
+   border:7px double white;
+    margin: auto;
+    z-index:1000;
+    overflow:hidden;
+    object-fit: cover;
+}
+
+.card {
+    border: 0;
+}
+
+.profileCard{
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.26);
+    padding: 1rem 1rem;
+    
+    
+}
+
+.divider {
+
+    color: black;
+    background-color:  #f0f2f5;
+    line-height: 2rem;
+    margin-left: 18px;
+    margin-right: 9px;
+}
+
+.content {
+    text-align: center;
+}
+
+.aside{
+    margin: 0 10px;
+    width: 250px !important;
+    min-width: 250px !important;
+    max-width: 250px !important;
+    flex: 0 0 250px !important;
+    margin-top: 30px;
+    background-color: #f0f2f5;
+    transition: right .3s ease-in-out;
+
+}
+.asideItem{
+    text-align: right;
+    height:2.5rem !important;
+    background: white;
+    border-radius: 10px;
+    margin-top: 12px!important;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.26);
+
+}
+.asideItem::after{
+    border-right: 7px solid #1890ff !important;
+}

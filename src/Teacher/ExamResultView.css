@@ -1,0 +1,39 @@
+.resultView{
+    /* margin-left: auto; */
+    
+    
+}
+
+.testCard{
+    display: flex;
+    direction: rtl;
+    background: none;
+    margin: 10px auto 10px auto;
+}
+.Number{
+    font-size: 40px;
+    font-weight: 800;
+}
+.rightAnswer{
+    border:2px dashed green;
+    border-radius: 7px;
+    padding-top:5px;
+    padding-bottom:5px;
+    display:block
+}
+.wrongAnswer{
+    border:2px dashed red;
+    border-radius: 7px;
+  
+    display:block
+}
+.testOption{
+    padding:5px;
+    font-weight: 200;
+}
+.mark{
+    text-align: center;
+    
+    height: auto;
+    font-weight: 800;
+}

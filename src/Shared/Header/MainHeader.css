@@ -1,0 +1,19 @@
+.mainHeader {
+    border-radius: 10px;
+    margin-left: 18px;
+    margin-right: 18px;
+    height: 5rem !important;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    background: white !important;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.26);
+    padding: 0 1rem;
+    z-index: 5;
+    position: sticky;
+}
+
+.Clock{
+    margin-right: auto;
+}

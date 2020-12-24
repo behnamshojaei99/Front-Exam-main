@@ -1,0 +1,22 @@
+
+.lmsLogo{
+   border: none;
+   margin-right: auto;
+    height: 70px;
+    width:200px;
+    align-items: center;
+    vertical-align: middle;
+}
+.Span{
+    font-weight: bold!important;
+    font-size: 22px;
+    padding-right: 10px;
+    text-shadow:-2px -2px 2px #aaa;
+    color: black;
+    display: inline-block;
+}
+.Span:hover{
+    color:#1589FF;
+    text-shadow: none;
+}
+

@@ -1,0 +1,28 @@
+
+.circle {
+    border-radius: 50% !important;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+
+.card {
+    border: 0;
+}
+
+.divider {
+    color: gray;
+    background-color: white;
+}
+
+.content {
+    text-align: center;
+}
+
+.aside{
+    margin: 0 10px;
+    width: 250px !important;
+    min-width: 250px !important;
+    max-width: 250px !important;
+    flex: 0 0 250px !important;
+}

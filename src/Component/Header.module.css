@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+
+.menu_right{
+    text-align: right !important;
+}
+
+.menu_left{
+    text-align: left !important;
+}
+
+.float_left{
+    float: left;
+}
